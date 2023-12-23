@@ -4,13 +4,9 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <a style="display:block" href="https://linkedin.com/in/sametsahin1" target="_blank"> 
@@ -21,13 +17,9 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -83,13 +75,9 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sametsahinn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2" height="170" alt="languages graph"  />
@@ -97,8 +85,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/sametsahinn/sametsahinn/output/snake.svg" alt="Snake animation" />
 
